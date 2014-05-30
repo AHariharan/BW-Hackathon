@@ -1,0 +1,37 @@
+@CHARSET "ISO-8859-1";
+
+body
+{
+	width:980px;
+	margin:0px auto;
+}
+
+
+#headsection
+{
+height: 82px;
+background: none repeat scroll 0% 0% #006DA9;
+padding-top: 11px;
+color: white;
+text-align: center;
+/* position: fixed; */
+width: 100%;
+box-shadow: 0px 0px 7px 6px grey;
+}
+
+#mainsection
+{
+	padding-top: 6px;
+	
+}
+
+.tabcontent
+{
+	padding-top:4px;
+}
+
+.datapanel
+{
+	/* width:80%;
+	margin-left:200px; */
+}
